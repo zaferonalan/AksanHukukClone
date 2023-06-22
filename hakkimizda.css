@@ -1,0 +1,77 @@
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+
+img{
+    max-width: 100%;
+}
+
+.header{
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 4, 30, 0.685), rgba(0, 4, 1, 0.685)) ,  url('images/hakkimizda.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 65dvh;
+}
+
+.navbarContainer{
+    width: 95% !important;
+    margin-top: 1rem;
+}
+
+.nav-link{
+    color: white;
+}
+.collapse-menu2 li a{
+    color: #fff;
+    text-decoration: none;
+}
+.collapse-menu2 ul{
+    list-style: none;
+}
+.collapse-menu2 li{
+    display: inline-block;
+    margin-right: 1rem;
+}
+.collapse{
+    flex-direction: column;
+    align-items: flex-end;
+}
+.title{
+    height: 90%;
+}
+.sec1-list{
+    font-size: 20px;
+}
+.sec1 ul li a:hover{
+    color: red;
+}
+.sec2{
+    background-image: linear-gradient(rgba(2,10,32,0.9), rgba(2,10,32,0.9)), url('images/sec2.jfif');
+}
+.btn:hover{
+    background-color: white;
+    color: black !important;
+}
+
+
+.footer-box{
+    background-color: #020a20;
+}
+.post-p2{
+    font-size: 11px;
+}
+.footer-ul ul li{
+    list-style-type: none;
+}
+.footer-title{
+    font-size: 15px;
+}
+.footer-li{
+    font-size: 11px;
+}

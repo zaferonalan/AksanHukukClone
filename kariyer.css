@@ -1,0 +1,124 @@
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+
+.red-title {
+  color: #990033;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.red-title2 {
+  color: #990033;
+  font-weight: 400;
+  font-size: 30px;
+  font-family: "abril-text" !important;
+}
+
+.paragraph {
+  font-family: "abril-text" !important;
+  font-size: 18px !important;
+}
+
+img {
+  max-width: 100%;
+}
+
+.sec1 {
+  padding-bottom: 3% !important;
+}
+
+.btn:hover {
+  background-color: white;
+  color: black !important;
+}
+
+.testimonial-div {
+  padding-bottom: 20px !important;
+  padding-top: 60px !important;
+  font-family: "abril-text" !important;
+  color: #020a20 !important;
+  font-weight: 600;
+}
+
+.sec3 {
+  background-image: linear-gradient(rgba(2, 10, 32, 0.9), rgba(2, 10, 32, 0.5)),
+    url("images/career-footer-bg.jpg");
+  position: relative;
+  background-size: cover !important;
+  overflow: hidden;
+  background-position: center center;
+  background-repeat: no-repeat !important;
+}
+
+.testimonial-text {
+  font-size: 13px;
+  margin: 30px 0 20px;
+  line-height: 22px;
+  color: #828282;
+}
+
+.header {
+  width: 100%;
+  background-image: linear-gradient(rgba(0, 4, 30, 0.685), rgba(0, 4, 1, 0.685)),
+    url("images/career-bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 65dvh;
+}
+
+.sec2 {
+  background-image: linear-gradient(rgb(2, 10, 32, 0.8), rgba(67, 73, 91, 0.8)),
+    url("images/career-slider.jpg");
+  min-height: 400px;
+  max-height: 400px;
+  background-position: center center;
+}
+
+.navbarContainer {
+  width: 95% !important;
+  margin-top: 1rem;
+}
+
+.nav-link {
+  color: white;
+}
+.collapse-menu2 li a {
+  color: #fff;
+  text-decoration: none;
+}
+.collapse-menu2 ul {
+  list-style: none;
+}
+.collapse-menu2 li {
+  display: inline-block;
+  margin-right: 1rem;
+}
+.collapse {
+  flex-direction: column;
+  align-items: flex-end;
+}
+.title {
+  height: 90%;
+}
+
+.footer-box {
+  background-color: #020a20;
+}
+.post-p2 {
+  font-size: 11px;
+}
+.footer-ul ul li {
+  list-style-type: none;
+}
+.footer-title {
+  font-size: 15px;
+}
+.footer-li {
+  font-size: 11px;
+}
